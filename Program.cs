@@ -29,6 +29,37 @@
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////
+///
+
+// //final do exercicio02
+
+
+
+// public class Program
+// {
+//     static void Main(string[] args)
+//     {
+//         // Exemplo de pagamento com cartão de crédito
+//         CartaoCredito cartaoCredito = new CartaoCredito();
+//         decimal valorCompraCartao = 500.50m;
+//         cartaoCredito.ProcessarPagamento(valorCompraCartao);
+
+//         // Exemplo de pagamento com débito
+//         Debito debito = new Debito();
+//         decimal valorCompraDebito = 300.25m;
+//         debito.ProcessarPagamento(valorCompraDebito);
+//     }
+// }
+
+
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////
 
 
 //exercicio03 (sobrecarga)
