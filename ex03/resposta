@@ -1,0 +1,13 @@
+A sobrecarga de métodos ocorre quando várias definições de método têm o mesmo nome,
+ mas tem diferença no número ou tipo de seus parâmetros. Isso permite que você use o mesmo nome
+  de método para realizar diferentes,operações, porem parecidas.
+ Aqui está um exemplo em C#:
+
+
+ Quando  herda uma classe (ou seja, você tem uma classe base ou superclasse), 
+  pode querer modificar ou personalizar um método específico dessa classe. 
+ Em vez de usar o método exatamente como está na classe base, pode sobrescrevê-lo 
+ na  própria classe (subclasse). Isso permite que adicione outra lógica, 
+ comportamento ou funcionalidade ao método.
+
+ 
